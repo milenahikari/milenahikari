@@ -1,6 +1,6 @@
 # Milena Hikari
 
-React Native Developer
+React / React Native Developer
  
 [![Linkedin Badge](https://img.shields.io/badge/-Milena%20Hikari-f34089?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-hikari-uemura-4ab71812a/)](https://www.linkedin.com/in/milena-hikari-uemura-4ab71812a/) 
 [![Gmail Badge](https://img.shields.io/badge/-milenahikari11@gmail.com-f34089?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milenahikari11@gmail.com)](mailto:milenahikari11@gmail.com)
