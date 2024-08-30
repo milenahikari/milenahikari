@@ -5,7 +5,7 @@ React / React Native Developer
 [![Linkedin Badge](https://img.shields.io/badge/-Milena%20Hikari-f34089?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-hikari-uemura-4ab71812a/)](https://www.linkedin.com/in/milena-hikari-uemura-4ab71812a/) 
 [![Gmail Badge](https://img.shields.io/badge/-milenahikari11@gmail.com-f34089?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milenahikari11@gmail.com)](mailto:milenahikari11@gmail.com)
 
-I have a bachelor's degree in Computer Science and currently work as a React Native Developer.
+I have a bachelor's degree in Computer Science and currently work as a React/React Native Developer.
 
 ### 👩🏻‍💻Languages and Tools:</h3>
 
